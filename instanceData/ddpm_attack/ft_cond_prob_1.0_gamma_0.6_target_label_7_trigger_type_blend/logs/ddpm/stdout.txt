@@ -1,0 +1,6 @@
+INFO - main_attack.py - 2024-04-29 21:01:44,562 - Using device: cuda
+INFO - main_attack.py - 2024-04-29 21:01:44,565 - Writing log file to ./instanceData/ddpm_attack/ft_cond_prob_1.0_gamma_0.6_target_label_7_trigger_type_blend/logs/ddpm
+INFO - main_attack.py - 2024-04-29 21:01:44,565 - Exp instance id = 10761
+INFO - diffusion_attack.py - 2024-04-29 21:02:10,773 - epoch: 0/250
+INFO - diffusion_attack.py - 2024-04-29 21:02:14,516 - step: 1, loss: 131.77725219726562, data time: 0.16289615631103516
+INFO - diffusion_attack.py - 2024-04-29 21:02:27,377 - step: 2, loss: 126.85643005371094, data time: 0.08340668678283691
